@@ -21,7 +21,7 @@ public class Test {
                 emf.close();
             }
 
-            System.out.println("done");
+            System.out.println("lỗi");
         } catch (Exception e){
             System.out.println(e.getMessage());
         }

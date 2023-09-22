@@ -11,5 +11,6 @@ public class AccountServices {
         vn.edu.iuh.fit.thuchanhwww_buoi1.services.AccountServices.insertAccount(account2);
 
         vn.edu.iuh.fit.thuchanhwww_buoi1.services.AccountServices.getAccounts().forEach(i-> System.out.println(i));
+
     }
 }
