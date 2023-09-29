@@ -5,7 +5,7 @@ import vn.edu.iuh.fit.thuchanhwww_buoi1.models.Log;
 import java.sql.Timestamp;
 import java.util.Date;
 
-public class LogServices {
+public class TestLogServices {
     public static void main(String[] args) {
         Date date = new Date();
 

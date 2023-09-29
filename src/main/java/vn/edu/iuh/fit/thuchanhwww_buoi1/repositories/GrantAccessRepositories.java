@@ -2,6 +2,7 @@ package vn.edu.iuh.fit.thuchanhwww_buoi1.repositories;
 
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityTransaction;
+import vn.edu.iuh.fit.thuchanhwww_buoi1.models.Account;
 import vn.edu.iuh.fit.thuchanhwww_buoi1.models.GrantAccess;
 
 import java.util.List;
@@ -53,5 +54,16 @@ public class GrantAccessRepositories {
             System.out.println(e.getMessage());
         }
         return null;
+    }
+    public void dellGrantAccess(GrantAccess ga) {
+        EntityTransaction tr = em.getTransaction();
+        tr.begin();
+        try {
+            em.remove(ga);
+            tr.commit();
+        } catch (Exception e) {
+            tr.rollback();
+            System.out.println(e.getMessage());
+        }
     }
 }

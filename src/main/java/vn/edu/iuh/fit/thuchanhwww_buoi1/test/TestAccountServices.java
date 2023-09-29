@@ -2,10 +2,10 @@ package vn.edu.iuh.fit.thuchanhwww_buoi1.test;
 
 import vn.edu.iuh.fit.thuchanhwww_buoi1.models.Account;
 
-public class AccountServices {
+public class TestAccountServices {
     public static void main(String[] args) {
-        Account account1 = new Account("kiet","Tran Thi Met","123","met@gmail.com","0904567890",(byte) 1);
-        Account account2 = new Account("huong","Nguyen Van Teo","123","teo@gmail.com","0903123456",(byte) 1);
+        Account account1 = new Account("Kiet","Nguyen Truong Tuan Kiet","123","kiet@gmail.com","0786561865",(byte) 1);
+        Account account2 = new Account("Huong","Pham Thi Ngoc huong","123","huong@gmail.com","0365328020",(byte) 1);
 
         vn.edu.iuh.fit.thuchanhwww_buoi1.services.AccountServices.insertAccount(account1);
         vn.edu.iuh.fit.thuchanhwww_buoi1.services.AccountServices.insertAccount(account2);
