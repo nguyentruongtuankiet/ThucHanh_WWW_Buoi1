@@ -3,12 +3,7 @@
 <%@ page import="vn.edu.iuh.fit.thuchanhwww_buoi1.models.Account" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <!DOCTYPE html>
-Created by IntelliJ IDEA.
-User: Tuan Kiet
-Date: 9/27/2023
-Time: 11:06 AM
-To change this template use File | Settings | File Templates.
---%>
+
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
