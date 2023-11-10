@@ -1,7 +1,7 @@
 # ThucHanh_WWW_Buoi1
 
 <details>
-  <summary><strong>User</strong></summary>
+  <summary style="font-weight: bold; font-size: 20px;">User</summary>
 
   ## Đăng nhập
         
@@ -18,7 +18,7 @@
 </details>
 
 <details>
-  <summary><strong>Admin</strong></summary>
+  <summary style="font-weight: bold; font-size: 20px;">Admin</summary>
 
   ## Đăng nhập
   
