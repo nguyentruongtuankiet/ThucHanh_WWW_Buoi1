@@ -2,7 +2,7 @@
 ### User
 
 -   Đăng nhập\ Đăng Xuất
-  ![example](minhchung/user1.png)
+  ![Alt Text](minhchung/user1.png)
 -   Xem thông tin tài khoản
 -   Xem Role tài khoản
 
