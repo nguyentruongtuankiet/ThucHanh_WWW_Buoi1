@@ -50,4 +50,4 @@
     
 </details>
 
-**Xem code tại đây -->** (https://github.com/nguyentruongtuankiet/ThucHanh_WWW_Buoi1/tree/buoi1)
+**Xem code tại đây -->** [Link](https://github.com/nguyentruongtuankiet/ThucHanh_WWW_Buoi1/tree/buoi1)
