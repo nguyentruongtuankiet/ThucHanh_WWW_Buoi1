@@ -2,7 +2,7 @@
 ### User
 
 -   Đăng nhập\ Đăng Xuất
-  ![Alt Text](minhchung/user1.png)
+  ![Alt Text](https://github.com/nguyentruongtuankiet/ThucHanh_WWW_Buoi1/blob/buoi1/minhchung/user1.png)
 -   Xem thông tin tài khoản
 -   Xem Role tài khoản
 
