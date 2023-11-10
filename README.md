@@ -1,7 +1,7 @@
 # ThucHanh_WWW_Buoi1
 
 <details>
-  <summary>User</summary>
+  <summary># User</summary>
 
   ## Đăng nhập
         
@@ -14,10 +14,11 @@
   ## Đăng xuất
        
   ![Đăng xuất - User](https://github.com/nguyentruongtuankiet/ThucHanh_WWW_Buoi1/blob/buoi1/minhchung/user3.png)
+    
 </details>
 
 <details>
-  <summary>Admin</summary>
+  <summary># Admin</summary>
 
   ## Đăng nhập
   
@@ -46,4 +47,5 @@
   ## Xóa Tài Khoản
   
   ![Xóa Tài Khoản - Admin](https://github.com/nguyentruongtuankiet/ThucHanh_WWW_Buoi1/blob/buoi1/minhchung/adminXoaTaiKhoan.png)
+    
 </details>
