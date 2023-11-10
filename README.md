@@ -1,6 +1,6 @@
 # ThucHanh_WWW_Buoi1
 <details>
-  <summary>User</summary>
+  <summary>## User</summary>
 
 -  **Đăng nhập**
         
@@ -14,7 +14,10 @@
        
    ![Alt Text](https://github.com/nguyentruongtuankiet/ThucHanh_WWW_Buoi1/blob/buoi1/minhchung/user3.png)
 </details>
-## Admin
+
+<details>
+  <summary>## Admin</summary>
+
 -  **Đăng nhập**
    
  ![Alt Text](https://github.com/nguyentruongtuankiet/ThucHanh_WWW_Buoi1/blob/buoi1/minhchung/admin1.png)
@@ -43,3 +46,4 @@
    
  ![Alt Text](https://github.com/nguyentruongtuankiet/ThucHanh_WWW_Buoi1/blob/buoi1/minhchung/adminXoaTaiKhoan.png)
     
+</details>
