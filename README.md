@@ -1,7 +1,7 @@
 # ThucHanh_WWW_Buoi1
 
 <details>
-  <summary># User</summary>
+  <summary><strong>User</strong></summary>
 
   ## Đăng nhập
         
@@ -18,7 +18,7 @@
 </details>
 
 <details>
-  <summary># Admin</summary>
+  <summary><strong>Admin</strong></summary>
 
   ## Đăng nhập
   
